@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a **Web Developer** and **Python Django Enthus
 
 ### 🌟 **About Me**
 - 🎓 **Education**: Bachelor of Science in Information Technology, University of Mumbai (2024)
-- 💼 **Work**: Web Developer | MERN Stack & Django Expert  
+- 💼 **Work**: Python Developer | Django | React   
 - 🏆 **Achievements**:  
   - **2nd Prize**: Social Media Website Design Competition  
   - Developed an award-winning **Dashavatar Social Media Website**  
@@ -23,56 +23,56 @@ Welcome to my GitHub profile! I'm a **Web Developer** and **Python Django Enthus
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![<omgodb](https://img.shields.io/badge/-Mongodb-003B57?style=flat&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
 ### 📈 **GitHub Stats**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adityagavandi&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityagavandi&theme=radical" alt="Aditya's GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=adityagavandi61&show_icons=true&theme=radical" alt="Aditya's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=adityagavandi61&theme=radical" alt="Aditya's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adityagavandi61&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-### 📊 **GitHub Activity**
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=adityagavandi&bg_color=1d1f21&color=ffffff&line=00e676&point=ffffff&area=true)
-
----
-
 ### 🚀 **Featured Projects**
-- 🛍️ [**eCommerce Website**](https://github.com/adityagavandi61/sketehingwebsite)  
-  Developed a product-selling platform with cart, order, and product management functionalities using Django.  
-  **Tech Stack**: Django, SQLite, HTML, CSS, JavaScript
 
-- 📚 [**Online Quiz System**](https://github.com/adityagavandi/quiz-system)  
-  A robust quiz management system with question banks, real-time results, and user authentication.  
-  **Tech Stack**: Django, Bootstrap, SQLite
+1. 🌐 [**Social Media Website**](https://github.com/adityagavandi/dashavatar-social-media)  
+   Built an engaging platform for connecting users and sharing posts.  
+   **🏆 Runner-Up** in a Social Networking Site Design Competition.  
+   **Tech Stack**: Django, SQLite, HTML, CSS, JavaScript  
 
-- 🌐 [**Hotel Booking Site**](https://github.com/adityagavandi/hotel-booking)  
-  Built a seamless booking experience with MERN Stack.  
-  **Tech Stack**: React, Node.js, MongoDB, Express.js
+2. 📬 [**Job Automation Emails**](https://github.com/adityagavandi/job-automation)  
+   Automated the process of sending customized job application emails using Python.  
+   Features include CSV-based data handling and batch email sending.  
+   **Tech Stack**: Python, Pandas, Email, Requests  
+
+3. 🌐 [**Hotel Booking Site**](https://github.com/adityagavandi/hotel-booking)  
+   Built a seamless booking experience with MERN Stack.  
+   **Tech Stack**: React, Node.js, MongoDB, Express.js
 
 ---
 
 ### 🏆 **Achievements**
-- 🌟 **Top 2%** in Google Crash Course on Python Certification Exam.  
-- 🏅 Recognized for delivering an exceptional user experience in the **Dashavatar Social Media Website** project.  
+- 🥈 **2nd Prize Winner** in a **Social Media Website Design Competition**  
+  Recognized for creating the **Dashavatar Social Media Website** project that excelled in user experience and functionality.
+
+---
+
+### 📜 **Certifications**
+1. 🎓 **Crash Course on Python** by Google (Coursera)  
+2. 🎓 **Using Python to Interact with the Operating System** (Coursera)  
 
 ---
 
 ### 📬 **Connect With Me**
-- 📧 [Email](mailto:adityagavandi@example.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/adityagavandi)
-- 💻 [Portfolio](https://adityagavandi.github.io/)
+- 📧 [Email](mailto:adityagavandi1998@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/adityagavandi/)
+- 💻 [Portfolio](https://adityagavandiportfolio.netlify.app/)
 
 ---
 
-### 💡 **Fun Fact**
-When I’m not coding, you’ll find me exploring new tech trends or creating exciting projects like **Flappy Bird in Python**!
 
----
-
-✨ *“Code is like humor. When you have to explain it, it’s bad.”*  
+✨ *"Keep learning, keep building, keep growing."*  
